@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/679/1*6r_b3q63Vd4GVx07INZM6A.png" height="200px">
+  <img src="https://user-images.githubusercontent.com/3268013/149550617-d92fa8ff-f95d-499c-8515-0ed0be976fbf.png" height="200px">
 </p>
 
 # Awesome EventBridge 🚀
