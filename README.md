@@ -30,6 +30,8 @@ _Inspired by [Awesome DynamoDB](https://github.com/alexdebrie/awesome-dynamodb)_
 
 - [EventBridge quick learning videos](https://www.youtube.com/playlist?list=PLWVS7QXuxjVkflYnCmLzZO_1q0UU0xD08). James Beswick gives us some great quick videos to learn about Amazon Eventbridge.
 
+- [Event-Driven Architecture at PostNL Scale](https://www.youtube.com/watch?v=nyoMF1AEI7g). Luc van Donkersgoed gives us some great insight into how to scale EventBridge with some interesting patterns like Authenticating producers/consumers, getting around EventBridge payload limits, EventBridge Metrics and much more...
+
 ## Written resources
 
 - [EventBridge Storming](https://medium.com/serverless-transformation/eventbridge-storming-how-to-build-state-of-the-art-event-driven-serverless-architectures-e07270d4dee) and [Finding a Loosely Coupled Utopia with Event-Driven Serverless](https://medium.com/serverless-transformation/service-ports-finding-a-loosely-coupled-utopia-with-event-driven-serverless-6964aacd1487). Ben Ellerby gives us a fantastic piece about EventBridge and [EventStorming](https://www.eventstorming.com/). Talking about DDD, Bounded Context and much more.
