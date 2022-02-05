@@ -57,6 +57,8 @@ _Inspired by [Awesome DynamoDB](https://github.com/alexdebrie/awesome-dynamodb)_
 
 - [evb-cli](https://github.com/mhlabs/evb-cli) - Pattern generator and debugging tool for Amazon EventBridge. Browser targets of events, generate diagrams, generate code bindings and much more. All from the CLI.
 
+- [EventCatalog](https://www.eventcatalog.dev/) - Document your Event Architectures using Markdown files. Use the [Amazon EventBridge](https://www.eventcatalog.dev/docs/api/plugins/@eventcatalog/plugin-doc-generator-amazon-eventbridge) plugin to generate docs from your Schema Registry. Visualise targets, rules and much more...
+
 - [cdk-eventbridge-socket](https://github.com/boyney123/cdk-eventbridge-socket) - CDK construct that creates a WebSocket endpoint for you for any EventBridge rule you are interested in. (Built for debugging + testing )
 
 - [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools#eventbridge) - Dev Tools for the Serverless World. Another great CLI tool for serverless support and EventBridge!
