@@ -57,6 +57,9 @@ _Inspired by [Awesome DynamoDB](https://github.com/alexdebrie/awesome-dynamodb)_
 
 - [Amazon EventBridge: Event Payload Standards](https://www.boyney.io/blog/2022-02-11-event-payload-patterns) - Explore ideas behind standardising your event payloads for Amazon EventBridge and explore what other people are doing.
 
+- [Testing Amazon EventBridge events using AWS Step Functions](https://aws.amazon.com/de/blogs/compute/testing-amazon-eventbridge-events-using-aws-step-functions/) - Explore how you can use Step Functions to help test your EDA with EventBridge.
+
+- [How to use EventBridge as a Cross-Account Event Backbone](https://dev.to/eoinsha/how-to-use-eventbridge-as-a-cross-account-event-backbone-5fik) - A  post by [Eoin Shanaghy](https://twitter.com/eoins) explaining how we can utilise EventBridge and share events cross accounts. Worth a read if you are using multiple AWS accounts and want to share events between them.
 
 ## Tools
 
