@@ -15,6 +15,7 @@ _Inspired by [Awesome DynamoDB](https://github.com/alexdebrie/awesome-dynamodb)_
 - [Videos](#videos)
 - [Written resources](#written-resources)
 - [Tools](#tools)
+- [Example Projects](#example-projects)
 
 ## Videos
 
