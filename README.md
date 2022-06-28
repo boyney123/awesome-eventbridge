@@ -37,6 +37,13 @@ _Inspired by [Awesome DynamoDB](https://github.com/alexdebrie/awesome-dynamodb)_
 
 - [Serverlesspresso - A demo using EventBridge, Step Functions and more!](https://www.youtube.com/watch?v=71ln5qjiVbk). James Beswick talks us through how the Serverlesspresso application was created with a mixture of API Gateway, IOT Core and EventBridge that glues the whole thing together.
 
+- [Best practices to design your events in event-driven applications](https://www.youtube.com/watch?v=uPljZ08sk2c). David Boyne goes through Event Design patterns with EventBridge looking into Nofitication and State Carried patterns, the tradeoffs and ways to improve your event design by thinking Event first design.
+
+- [User-driven Composable Infrastructure with CDK, Step Functions and CodeBuild](https://www.youtube.com/watch?v=bLJ2A5YXDTY). Luc van Donkersgoed gives us great insight into how PostNL are using CDK to automate deployments with producers and consumers with self service systems.
+
+- [20 ways event-driven architectures can improve your development process](https://www.youtube.com/watch?v=jrYF-W8WCcQ) - James Beswick gives us a fun talk about how EDA can improve our development workflows and processes.
+
+
 ## Written resources
 
 - [EventBridge Storming](https://medium.com/serverless-transformation/eventbridge-storming-how-to-build-state-of-the-art-event-driven-serverless-architectures-e07270d4dee) and [Finding a Loosely Coupled Utopia with Event-Driven Serverless](https://medium.com/serverless-transformation/service-ports-finding-a-loosely-coupled-utopia-with-event-driven-serverless-6964aacd1487). Ben Ellerby gives us a fantastic piece about EventBridge and [EventStorming](https://www.eventstorming.com/). Talking about DDD, Bounded Context and much more.
@@ -61,7 +68,9 @@ _Inspired by [Awesome DynamoDB](https://github.com/alexdebrie/awesome-dynamodb)_
 
 - [How to use EventBridge as a Cross-Account Event Backbone](https://dev.to/eoinsha/how-to-use-eventbridge-as-a-cross-account-event-backbone-5fik) - A  post by [Eoin Shanaghy](https://twitter.com/eoins) explaining how we can utilise EventBridge and share events cross accounts. Worth a read if you are using multiple AWS accounts and want to share events between them.
 
-## Tools
+- [Sending Amazon EventBridge events to private endpoints in a VPC](https://aws.amazon.com/blogs/compute/sending-amazon-eventbridge-events-to-private-endpoints-in-a-vpc/) - A great blog post by Emily Shea explaning how you can send events to private APIs in a VPC.
+
+# Tools
 
 - [evb-cli](https://github.com/mhlabs/evb-cli) - Pattern generator and debugging tool for Amazon EventBridge. Browser targets of events, generate diagrams, generate code bindings and much more. All from the CLI.
 
@@ -82,3 +91,9 @@ _Inspired by [Awesome DynamoDB](https://github.com/alexdebrie/awesome-dynamodb)_
 - [serverless-offline-eventbridge](https://github.com/rubenkaiser/serverless-offline-eventBridge) -  serverless offline plugin that enables eventBridge events 
 
 - [Typebridge](https://github.com/fredericbarthelet/typebridge) - TypeScript toolbox for EventBridge. 
+
+# Example Projects
+
+- [Event Driven Archiecture with .NET API's](https://github.com/jeastham1993/event-driven-dotnet-api) - James Eastham has built a great EDA example using NET 6 APIS. This sample project demonstrates how to build an event driven architecture on AWS using ECS Fargate, .NET 6 REST API's, AWS CoPilot and Amazon EventBridge.
+
+- [Serverlesspresso](https://github.com/aws-samples/serverless-coffee) - Open source project for the [Serverlesspresso](https://serverlessland.com/reinvent2021/serverlesspresso) the [Serverless DA Team at AWS](https://serverlessland.com/about) has built using Step Functions, EventBridge and API Gateway.
