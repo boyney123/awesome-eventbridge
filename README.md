@@ -98,3 +98,5 @@ _Inspired by [Awesome DynamoDB](https://github.com/alexdebrie/awesome-dynamodb)_
 - [Event Driven Archiecture with .NET API's](https://github.com/jeastham1993/event-driven-dotnet-api) - James Eastham has built a great EDA example using NET 6 APIS. This sample project demonstrates how to build an event driven architecture on AWS using ECS Fargate, .NET 6 REST API's, AWS CoPilot and Amazon EventBridge.
 
 - [Serverlesspresso](https://github.com/aws-samples/serverless-coffee) - Open source project for the [Serverlesspresso](https://serverlessland.com/reinvent2021/serverlesspresso) the [Serverless DA Team at AWS](https://serverlessland.com/about) has built using Step Functions, EventBridge and API Gateway.
+
+- [Event Driven Serverless CDK](https://github.com/jeastham1993/event-driven-serverless-cdk). James Eastham gives us another example of an event driven application. This project contains an example of building an AWS native, event driven, customer review analysis application. It uses serverless components and native AWS service integrations. The application is deployed using the AWS CDK, written in C#.
