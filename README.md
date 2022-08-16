@@ -71,6 +71,10 @@ _Inspired by [Awesome DynamoDB](https://github.com/alexdebrie/awesome-dynamodb)_
 
 - [Sending Amazon EventBridge events to private endpoints in a VPC](https://aws.amazon.com/blogs/compute/sending-amazon-eventbridge-events-to-private-endpoints-in-a-vpc/) - A great blog post by Emily Shea explaining how you can send events to private APIs in a VPC.
 
+- [Should you validate your producer/consumer events?](https://www.boyney.io/blog/2022-08-09-event-validation) - David Boyne asked a portion of the community about event validation, and concluded the result in his Blog post.
+
+- [Bidirectional event integrations with Salesforce and Amazon EventBridge](Introducing bidirectional event integrations with Salesforce and Amazon EventBridge) - Example of using EventBridge to consume and produce events flowing outside your organistion. 
+
 ## Tools
 
 - [evb-cli](https://github.com/mhlabs/evb-cli) - Pattern generator and debugging tool for Amazon EventBridge. Browser targets of events, generate diagrams, generate code bindings and much more. All from the CLI.
