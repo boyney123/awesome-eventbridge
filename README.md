@@ -97,6 +97,8 @@ _Inspired by [Awesome DynamoDB](https://github.com/alexdebrie/awesome-dynamodb)_
 
 - [Typebridge](https://github.com/fredericbarthelet/typebridge) - TypeScript toolbox for EventBridge. 
 
+- [EventBridge Ruler](https://github.com/aws/event-ruler) - A Java library that allows you to build applications that can match any number of rules against events at several hundred thousand events per second. 
+
 - [Quamina](https://github.com/timbray/quamina) - Go pattern match library following EventBridge pattern style. Use this package in your applications to only send events to EventBridge if they match the registered patterns. Improves latency and reduces cost in applications.
 
 ## Example Projects
