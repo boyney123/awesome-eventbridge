@@ -73,7 +73,9 @@ _Inspired by [Awesome DynamoDB](https://github.com/alexdebrie/awesome-dynamodb)_
 
 - [Should you validate your producer/consumer events?](https://www.boyney.io/blog/2022-08-09-event-validation) - David Boyne asked a portion of the community about event validation, and concluded the result in his Blog post.
 
-- [Bidirectional event integrations with Salesforce and Amazon EventBridge](Introducing bidirectional event integrations with Salesforce and Amazon EventBridge) - Example of using EventBridge to consume and produce events flowing outside your organistion. 
+- [Bidirectional event integrations with Salesforce and Amazon EventBridge](https://aws.amazon.com/blogs/compute/introducing-bidirectional-event-integrations-with-salesforce-and-amazon-eventbridge/) - Example of using EventBridge to consume and produce events flowing outside your organistion. 
+
+- [Guaranteed event ordering when using Amazon EventBridge as your Enterprise Service Bus](https://leejamesgilmore.medium.com/guaranteed-event-ordering-when-using-amazon-eventbridge-as-your-enterprise-service-bus-ca7a2b62afea) - Lee James Gilmore gives us a detailed example of how to use SNS and SQS FIFO queues with EventBridge and DDB Stream patterns, along with code examples and great diagrams. If you are interested in event ordering then check this blog post out.
 
 ## Tools
 
