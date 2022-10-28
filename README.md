@@ -8,7 +8,10 @@ A handy list of resources for getting up to speed on events, patterns, and using
 
 Contributions welcome!
 
-_Inspired by [Awesome DynamoDB](https://github.com/alexdebrie/awesome-dynamodb)_
+# Similar Lists
+
+[Awesome DynamoDB](https://github.com/alexdebrie/awesome-dynamodb) - List of resources for learning about modeling, operating, and using Amazon DynamoDB
+[Awesome Event Patterns](https://github.com/boyney123/awesome-event-patterns) - Collection of links, videos and things to help with event architecture event patterns.
 
 ## Table of Contents
 
