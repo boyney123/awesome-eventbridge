@@ -81,6 +81,12 @@ Contributions welcome!
 
 - [Guaranteed event ordering when using Amazon EventBridge as your Enterprise Service Bus](https://leejamesgilmore.medium.com/guaranteed-event-ordering-when-using-amazon-eventbridge-as-your-enterprise-service-bus-ca7a2b62afea) - Lee James Gilmore gives us a detailed example of how to use SNS and SQS FIFO queues with EventBridge and DDB Stream patterns, along with code examples and great diagrams. If you are interested in event ordering then check this blog post out.
 
+## Patterns
+
+- [Enrich EventBridge events using Lambda and custom rules](https://serverlessland.com/patterns/eventbridge-enrichment-with-lambda) - Enrichment pattern that uses metadata on a given event, and enrichs the data before reaching downstream services.
+- [Claim check pattern with S3 and EventBridge Notifications](https://serverlessland.com/patterns/s3-to-eventbridge-claim-check-pattern) - Claim check pattern to handle large data in EventBridge. In this example user uploads a file and S3 events are used to raise domain information. Presigned URLS are used to get the information to downstream consumers.
+- [Outbox pattern with EventBridge and DynamoDB](https://serverlessland.com/patterns/dynamodb-streams-to-eventbridge-outbox-pattern) - Using DynamoDB streams to process EventBridge events. First store the data (in this example user information) then raise EventBridge events off the back of it
+
 ## Tools
 
 - [evb-cli](https://github.com/mhlabs/evb-cli) - Pattern generator and debugging tool for Amazon EventBridge. Browser targets of events, generate diagrams, generate code bindings and much more. All from the CLI.
