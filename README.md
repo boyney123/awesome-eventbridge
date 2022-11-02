@@ -83,6 +83,8 @@ Contributions welcome!
 
 - [Enrich your EventBridge events with AWS Lambda](https://www.boyney.io/blog/2022-11-01-eventbridge-enrichment-with-lambda) - Pattern to explore using content enrichment patterns with Amazon EventBridge and using AWS Lambda as the enricher. Using custom rules and metadata to enrich data and put the events back onto the bus for downstream consumers.
 
+- [How to publish large events with Amazon EventBridge using the claim check pattern](https://www.boyney.io/blog/2022-11-01-eventbridge-claim-check) - Need to handle large events with EventBridge but hitting the payload limit? Try using the claim check pattern, here is an example of what the claim check pattern is and example code to do it.
+
 ## Patterns
 
 - [Enrich EventBridge events using Lambda and custom rules](https://serverlessland.com/patterns/eventbridge-enrichment-with-lambda) - Enrichment pattern that uses metadata on a given event, and enrichs the data before reaching downstream services.
