@@ -81,6 +81,8 @@ Contributions welcome!
 
 - [Guaranteed event ordering when using Amazon EventBridge as your Enterprise Service Bus](https://leejamesgilmore.medium.com/guaranteed-event-ordering-when-using-amazon-eventbridge-as-your-enterprise-service-bus-ca7a2b62afea) - Lee James Gilmore gives us a detailed example of how to use SNS and SQS FIFO queues with EventBridge and DDB Stream patterns, along with code examples and great diagrams. If you are interested in event ordering then check this blog post out.
 
+- [Enrich your EventBridge events with AWS Lambda](https://www.boyney.io/blog/2022-11-01-eventbridge-enrichment-with-lambda) - Pattern to explore using content enrichment patterns with Amazon EventBridge and using AWS Lambda as the enricher. Using custom rules and metadata to enrich data and put the events back onto the bus for downstream consumers.
+
 ## Patterns
 
 - [Enrich EventBridge events using Lambda and custom rules](https://serverlessland.com/patterns/eventbridge-enrichment-with-lambda) - Enrichment pattern that uses metadata on a given event, and enrichs the data before reaching downstream services.
