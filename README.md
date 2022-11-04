@@ -105,6 +105,8 @@ Contributions welcome!
 
 - [EventBridge Canon](https://github.com/boyney123/eventbridge-canon) - Simple UI to Publish, Save and Share AWS EventBridge Events. Think Postman but for EventBridge.
 
+- [EventBridge Schema Watcher](https://github.com/boyney123/cdk-schema-watcher) - Simple CDK construct with plugin support that allows you to listen for schema changes on eventbridge. For example, send messages directly into Slack when schemas change, perfect for downstream consumers!
+
 - [sls-test-tools](https://github.com/Theodo-UK/sls-test-tools) - Custom Jest Assertions for Serverless integration testing. Test your EventBridge integration with these awesome jest tools. Check if events are raised and the payloads of them.
 
 - [EventBridge Transformer](https://eventbridge-transformer.vercel.app) - An online tool that allows you to quickly generate input paths and input templates for EventBridge. Use your event as a starting point then interactive editors to generate your code. Also see example outputs and validate your input templates/paths.
