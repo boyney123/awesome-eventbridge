@@ -85,6 +85,8 @@ Contributions welcome!
 
 - [How to publish large events with Amazon EventBridge using the claim check pattern](https://www.boyney.io/blog/2022-11-01-eventbridge-claim-check) - Need to handle large events with EventBridge but hitting the payload limit? Try using the claim check pattern, here is an example of what the claim check pattern is and example code to do it.
 
+- [Introducing EventBridge Scheduler](https://docs.aws.amazon.com/scheduler/latest/UserGuide/what-is-scheduler.html) - If you are using EventBridge custom rules to build schedules, or want to setup millions of schedules for your projects, then check it out!
+
 ## Patterns
 
 - [Enrich EventBridge events using Lambda and custom rules](https://serverlessland.com/patterns/eventbridge-enrichment-with-lambda) - Enrichment pattern that uses metadata on a given event, and enrichs the data before reaching downstream services.
