@@ -89,6 +89,8 @@ Contributions welcome!
 
 - [Introducing EventBridge Scheduler](https://docs.aws.amazon.com/scheduler/latest/UserGuide/what-is-scheduler.html) - If you are using EventBridge custom rules to build schedules, or want to setup millions of schedules for your projects, then check it out!
 
+- [9 Surprises using AWS EventBridge Scheduler](https://dev.to/kumo/9-surprises-using-aws-eventbridge-scheduler-13b6) - [Frédéric Barthelet](https://github.com/fredericbarthelet) deep dives into the Scheduler service, detailling the functionalities it offers, sharing insights on how to maximize its capabilities and steer away from bad design intents.
+
 ## Patterns
 
 - [Enrich EventBridge events using Lambda and custom rules](https://serverlessland.com/patterns/eventbridge-enrichment-with-lambda) - Enrichment pattern that uses metadata on a given event, and enrichs the data before reaching downstream services.
