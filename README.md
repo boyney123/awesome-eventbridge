@@ -48,6 +48,8 @@ Contributions welcome!
 
 - [20 ways event-driven architectures can improve your development process](https://www.youtube.com/watch?v=jrYF-W8WCcQ) - James Beswick gives us a fun talk about how EDA can improve our development workflows and processes.
 
+- [AWS re:Invent 2022 - Designing event-driven integrations using Amazon EventBridge](https://www.youtube.com/watch?v=W3Rh70jG-LM) - Stephen Liedig is back with his 2022 re:invent talk. Dives into event bus topologies, producer / consumer responsibilities, event standards, idempotency and much more. If you want to dive into EventBridge this talk is for you!
+
 
 ## Written resources
 
