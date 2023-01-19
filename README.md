@@ -50,6 +50,8 @@ Contributions welcome!
 
 - [AWS re:Invent 2022 - Designing event-driven integrations using Amazon EventBridge](https://www.youtube.com/watch?v=W3Rh70jG-LM) - Stephen Liedig is back with his 2022 re:invent talk. Dives into event bus topologies, producer / consumer responsibilities, event standards, idempotency and much more. If you want to dive into EventBridge this talk is for you!
 
+- [What is EventBridge Pipes and EventBridge Scheduler?](https://www.youtube.com/watch?v=I8KDerQ9BRU) - Luc van Donkersgoed gives us a 10 minute summary of Pipes and Scheduler with some example usecases. If you want to start learning about pipes or scheduler, spare 10 minutes and give this a watch!
+
 
 ## Written resources
 
