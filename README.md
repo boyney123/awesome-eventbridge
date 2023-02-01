@@ -97,7 +97,7 @@ Contributions welcome!
 
 ## Courses
 
-- [Building Event-Driven Applications with Amazon EventBridge](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/15008/building-event-driven-applications-with-amazon-eventbridge) - Free training provided by AWS, if you are new to EventBridge or want to learn more this is worth taking
+- [Building Event-Driven Applications with Amazon EventBridge](https://explore.skillbuilder.aws/learn/course/external/view/elearning/15008/building-event-driven-applications-with-amazon-eventbridge) - Free training provided by AWS, if you are new to EventBridge or want to learn more this is worth taking
 
 ## Patterns
 
