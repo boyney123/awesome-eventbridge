@@ -95,6 +95,9 @@ Contributions welcome!
 
 - [9 Surprises using AWS EventBridge Scheduler](https://dev.to/kumo/9-surprises-using-aws-eventbridge-scheduler-13b6) - [Frédéric Barthelet](https://github.com/fredericbarthelet) deep dives into the Scheduler service, detailling the functionalities it offers, sharing insights on how to maximize its capabilities and steer away from bad design intents.
 
+## Audio
+- [Amazon EventBridge Pipes with Nik Pinkski](https://open.spotify.com/episode/5XiDRadCQRTsFuId9Zavl6?si=iy2RvlTcTN6w1mVx2jcacQ&nd=1) - Folks at AWS give us a 26 minute podcast where Nik Pinkski (Principle Engineer on EventBridge team) helps us understand what is EventBridge Pipes and it's back story.
+
 ## Courses
 
 - [Building Event-Driven Applications with Amazon EventBridge]([https://t.co/4sHTGW3h26](https://explore.skillbuilder.aws/learn/course/15018/Building%2520Event-Driven%2520Applications%2520With%2520Amazon%2520EventBridge%2520%28Amazon%29)) - Free training provided by AWS, if you are new to EventBridge or want to learn more this is worth taking
