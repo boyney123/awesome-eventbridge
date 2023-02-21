@@ -95,6 +95,8 @@ Contributions welcome!
 
 - [9 Surprises using AWS EventBridge Scheduler](https://dev.to/kumo/9-surprises-using-aws-eventbridge-scheduler-13b6) - [Frédéric Barthelet](https://github.com/fredericbarthelet) deep dives into the Scheduler service, detailling the functionalities it offers, sharing insights on how to maximize its capabilities and steer away from bad design intents.
 
+- [Improved EventBridge Latency Opens Up New Use Cases at PostNL](https://medium.com/postnl-engineering/improved-eventbridge-latency-opens-up-new-use-cases-at-postnl-910fdf6b5dde) - Great read by Luc van Donkersgoed as he explains how PostNL are processing millions of events, and how latency improvements (rolled out in 2023) helped their architecture and is paving the way for new improved usecases. Another reason to love serverless!
+
 ## Audio
 - [Amazon EventBridge Pipes with Nik Pinkski](https://open.spotify.com/episode/5XiDRadCQRTsFuId9Zavl6?si=iy2RvlTcTN6w1mVx2jcacQ&nd=1) - Folks at AWS give us a 26 minute podcast where Nik Pinkski (Principle Engineer on EventBridge team) helps us understand what is EventBridge Pipes and it's back story.
 
