@@ -52,6 +52,8 @@ Contributions welcome!
 
 - [What is EventBridge Pipes and EventBridge Scheduler?](https://www.youtube.com/watch?v=I8KDerQ9BRU) - Luc van Donkersgoed gives us a 10 minute summary of Pipes and Scheduler with some example usecases. If you want to start learning about pipes or scheduler, spare 10 minutes and give this a watch!
 
+- [Advanced Event-driven Architectures at the LEGO Group](https://www.youtube.com/watch?v=6_Yzybhmj-8&t=236s) - [Sarah Hamilton](https://twitter.com/serverlesssarah) gives us a great talk on how Lego are using event-driven architecture, diving into event streams, pub/sub with EventBridge, passing events through APIS (API Destinations) and finishing with Step Functions. One to watch for some inspiration!
+
 
 ## Written resources
 
