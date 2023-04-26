@@ -56,6 +56,8 @@ Contributions welcome!
 
 - [EDA in Practice: Building an eCommerce Platform at Cinch • Emily Shea & Toli Apostolidis](https://www.youtube.com/watch?v=wM-dTroS0FA&t=2077s) - [Emily Shea](https://twitter.com/em__shea) and [Toli Apostolidis](https://twitter.com/apostolis09) give us a great talk on event-driven architecture at [cinch](https://cinch.co.uk/). How they developed platform in 6 months and what event driven patterns emerged over time. Also some extras around how they use domain driven design, contract testing and how they scale their services in their org. Worth watching!
 
+- [Understanding application integration with EventBridge Pipes](https://www.youtube.com/watch?v=9Pf4E1ZZr08&t=989s) - Eric Johnson gives us a dive into EventBridge pipes, usecases and why you may want to use them.
+
 
 ## Written resources
 
