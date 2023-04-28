@@ -103,6 +103,8 @@ Contributions welcome!
 
 - [Improved EventBridge Latency Opens Up New Use Cases at PostNL](https://medium.com/postnl-engineering/improved-eventbridge-latency-opens-up-new-use-cases-at-postnl-910fdf6b5dde) - Great read by Luc van Donkersgoed as he explains how PostNL are processing millions of events, and how latency improvements (rolled out in 2023) helped their architecture and is paving the way for new improved usecases. Another reason to love serverless!
 
+- [EventBridge Visuals](https://serverlessland.com/serverless/visuals/eventbridge) - Learn through visuals, David Boyne has been working on visuals to help you learn EventBridge, if you are visual learner these may help you.
+
 ## Audio
 - [Amazon EventBridge Pipes with Nik Pinkski](https://open.spotify.com/episode/5XiDRadCQRTsFuId9Zavl6?si=iy2RvlTcTN6w1mVx2jcacQ&nd=1) - Folks at AWS give us a 26 minute podcast where Nik Pinkski (Principle Engineer on EventBridge team) helps us understand what is EventBridge Pipes and it's back story.
 
