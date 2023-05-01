@@ -58,6 +58,7 @@ Contributions welcome!
 
 - [Understanding application integration with EventBridge Pipes](https://www.youtube.com/watch?v=9Pf4E1ZZr08&t=989s) - Eric Johnson gives us a dive into EventBridge pipes, usecases and why you may want to use them.
 
+- [The Tao of Event-Driven Architectures](https://www.youtube.com/watch?v=9r9WDzzTcr0) - Luc van Donkersgoed gives us another great talk where he talks about 10 rules when building event-driven architectures. Goes into schemas, storage first patterns, observability, event design and much more!
 
 ## Written resources
 
