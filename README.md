@@ -149,6 +149,8 @@ Contributions welcome!
 
 - [Quamina](https://github.com/timbray/quamina) - Go pattern match library following EventBridge pattern style. Use this package in your applications to only send events to EventBridge if they match the registered patterns. Improves latency and reduces cost in applications.
 
+- [EventBridge Kafka Connector](https://github.com/awslabs/eventbridge-kafka-connector) - An Open Source Kafka sink connector for Amazon EventBridge to send events (records) from Kafka topic(s) to the specified EventBridge event bus. If you are using Kafka and want to integrate with EventBridge, this project may help!
+
 ## Example Projects
 
 - [Event Driven Architecture with .NET API's](https://github.com/jeastham1993/event-driven-dotnet-api) - James Eastham has built a great EDA example using NET 6 APIS. This sample project demonstrates how to build an event driven architecture on AWS using ECS Fargate, .NET 6 REST API's, AWS CoPilot and Amazon EventBridge.
