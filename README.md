@@ -106,7 +106,9 @@ Contributions welcome!
 
 - [EventBridge Visuals](https://serverlessland.com/serverless/visuals/eventbridge) - Learn through visuals, David Boyne has been working on visuals to help you learn EventBridge, if you are visual learner these may help you.
 
-- [EventBridge Visuals - Download the Book](https://serverlessland.com/serverless/visuals/eventbridge/download) - Download all the EventBridge visuals offline. 
+- [EventBridge Visuals - Download the Book](https://serverlessland.com/serverless/visuals/eventbridge/download) - Download all the EventBridge visuals offline.
+
+- [Testing Event-Driven Applications Using EventBridge — A Four-Year Journey](https://medium.com/@smorland/testing-event-driven-applications-using-eventbridge-a-four-year-journey-8ed0c80fc4ca) - A great article by Steve Morland on how they are using EventBridge and testing patterns they explored to help. 
 
 ## Audio
 - [Amazon EventBridge Pipes with Nik Pinkski](https://open.spotify.com/episode/5XiDRadCQRTsFuId9Zavl6?si=iy2RvlTcTN6w1mVx2jcacQ&nd=1) - Folks at AWS give us a 26 minute podcast where Nik Pinkski (Principle Engineer on EventBridge team) helps us understand what is EventBridge Pipes and it's back story.
