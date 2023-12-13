@@ -59,6 +59,14 @@ Contributions welcome!
 - [Understanding application integration with EventBridge Pipes](https://www.youtube.com/watch?v=9Pf4E1ZZr08&t=989s) - Eric Johnson gives us a dive into EventBridge pipes, usecases and why you may want to use them.
 
 - [The Tao of Event-Driven Architectures](https://www.youtube.com/watch?v=9r9WDzzTcr0) - Luc van Donkersgoed gives us another great talk where he talks about 10 rules when building event-driven architectures. Goes into schemas, storage first patterns, observability, event design and much more!
+- 
+- [Advanced event-driven patterns with Amazon EventBridge reInvent:2023](https://www.youtube.com/watch?v=6X4lSPkn4ps&t=8s) - AWS Hero Sheen Brisals is back again at re:Invent 2023 to give us all a great talk about event-driven patterns with EventBridge. If you want to dive deeper into patterns then this talk is for you!
+
+- [Refactoring to Serverless re:Invent 2023](https://www.youtube.com/watch?v=bIu8XZZROw4&t=2668s) - Great talk here by Gregor Hohpe and Sindhu Pillai talking about serverless refactorings. Many examples of EventBridge and EventBridge Pipes mentioned in this talk.
+
+- [Navigating the journey to serverless event-driven architecture](https://www.youtube.com/watch?v=hvGuqHp051c&t=2380s) - Talk by David Boyne to help you understand how you should navigate and build a serverless event-driven architecture, where you should start, how domain driven design can help, and how AWS services (including EventBridge) can help you get there.
+
+- [Advanced integration patterns & trade-offs for loosely coupled systems re:Invent 2023)[https://www.youtube.com/watch?v=FGKGdUiZKto&t=1112s] - Talk by Dirk Forhner and Gregor Hohpe at re:Invent 2023. Great talk diving deep into integration patterns, coupling, message channels and much more. Useful to know if you are using Amazon EventBridge!
 
 ## Written resources
 
