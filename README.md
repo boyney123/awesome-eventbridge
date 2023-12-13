@@ -63,9 +63,9 @@ Contributions welcome!
 
 - [Refactoring to Serverless re:Invent 2023](https://www.youtube.com/watch?v=bIu8XZZROw4&t=2668s) - Great talk here by Gregor Hohpe and Sindhu Pillai talking about serverless refactorings. Many examples of EventBridge and EventBridge Pipes mentioned in this talk.
 
-- [Navigating the journey to serverless event-driven architecture](https://www.youtube.com/watch?v=hvGuqHp051c&t=2380s) - Talk by David Boyne to help you understand how you should navigate and build a serverless event-driven architecture, where you should start, how domain driven design can help, and how AWS services (including EventBridge) can help you get there.
+- [Navigating the journey to serverless event-driven architecture](https://www.youtube.com/watch?v=hvGuqHp051c) - Talk by David Boyne to help you understand how you should navigate and build a serverless event-driven architecture, where you should start, how domain driven design can help, and how AWS services (including EventBridge) can help you get there.
 
-- [Advanced integration patterns & trade-offs for loosely coupled systems re:Invent 2023)[https://www.youtube.com/watch?v=FGKGdUiZKto&t=1112s] - Talk by Dirk Forhner and Gregor Hohpe at re:Invent 2023. Great talk diving deep into integration patterns, coupling, message channels and much more. Useful to know if you are using Amazon EventBridge!
+- [Advanced integration patterns & trade-offs for loosely coupled systems re:Invent 2023](https://www.youtube.com/watch?v=FGKGdUiZKto) - Talk by Dirk Forhner and Gregor Hohpe at re:Invent 2023. Great talk diving deep into integration patterns, coupling, message channels and much more. Useful to know if you are using Amazon EventBridge!
 
 ## Written resources
 
