@@ -39,7 +39,6 @@ Contributions welcome!
 
 - [The Art of Microservices Communication with AWS EventBridge](https://www.youtube.com/watch?v=0gPZx9ex9gY). Sheen Brisals gives another amazing talk on EventBridge and various different patterns we can explore. A great watch with many learnings to take away from it.
 
-
 - [Serverlesspresso - A demo using EventBridge, Step Functions and more!](https://www.youtube.com/watch?v=71ln5qjiVbk). James Beswick talks us through how the Serverlesspresso application was created with a mixture of API Gateway, IOT Core and EventBridge that glues the whole thing together.
 
 - [Best practices to design your events in event-driven applications](https://www.youtube.com/watch?v=uPljZ08sk2c). David Boyne goes through Event Design patterns with EventBridge looking into Nofitication and State Carried patterns, the tradeoffs and ways to improve your event design by thinking Event first design.
@@ -59,7 +58,7 @@ Contributions welcome!
 - [Understanding application integration with EventBridge Pipes](https://www.youtube.com/watch?v=9Pf4E1ZZr08&t=989s) - Eric Johnson gives us a dive into EventBridge pipes, usecases and why you may want to use them.
 
 - [The Tao of Event-Driven Architectures](https://www.youtube.com/watch?v=9r9WDzzTcr0) - Luc van Donkersgoed gives us another great talk where he talks about 10 rules when building event-driven architectures. Goes into schemas, storage first patterns, observability, event design and much more!
-- 
+
 - [Advanced event-driven patterns with Amazon EventBridge reInvent:2023](https://www.youtube.com/watch?v=6X4lSPkn4ps&t=8s) - AWS Hero Sheen Brisals is back again at re:Invent 2023 to give us all a great talk about event-driven patterns with EventBridge. If you want to dive deeper into patterns then this talk is for you!
 
 - [Refactoring to Serverless re:Invent 2023](https://www.youtube.com/watch?v=bIu8XZZROw4&t=2668s) - Great talk here by Gregor Hohpe and Sindhu Pillai talking about serverless refactorings. Many examples of EventBridge and EventBridge Pipes mentioned in this talk.
