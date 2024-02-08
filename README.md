@@ -67,6 +67,10 @@ Contributions welcome!
 
 - [Advanced integration patterns & trade-offs for loosely coupled systems re:Invent 2023](https://www.youtube.com/watch?v=FGKGdUiZKto) - Talk by Dirk Forhner and Gregor Hohpe at re:Invent 2023. Great talk diving deep into integration patterns, coupling, message channels and much more. Useful to know if you are using Amazon EventBridge!
 
+- **Integration EventBridge with AppSync (New in 2024)** - EventBridge added [support for AppSync](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-appsync-publishing-events-amazon-eventbridge/) in Jan 2024. This allows you to use AppSync as a target of your events, meaning your clients can listen to your server events. Focus Otter covers it in his [YouTube video](https://www.youtube.com/watch?v=XccNLyZutbU), Josh Kahn covers it in [blog post](https://aws.amazon.com/blogs/mobile/invoke-aws-services-directly-from-aws-appsync/) and [ServerlessLand has a pattern for you](https://serverlessland.com/patterns/eventbridge-to-appsync-sam) to get started.
+
+- [Empowering Architectural Evolution: Governing Event-Driven Solutions](https://www.youtube.com/watch?v=-Pv_kYflEEg) - This is a fantastic talk from Sam Dengler. Not really aimed directly at EventBridge, but covers some many tips and thoughts around EDA governance that you can apply to your event-driven architectures using EventBridge. 100% worth checking out.
+
 ## Written resources
 
 - [EventBridge Storming](https://medium.com/serverless-transformation/eventbridge-storming-how-to-build-state-of-the-art-event-driven-serverless-architectures-e07270d4dee) and [Finding a Loosely Coupled Utopia with Event-Driven Serverless](https://medium.com/serverless-transformation/service-ports-finding-a-loosely-coupled-utopia-with-event-driven-serverless-6964aacd1487). Ben Ellerby gives us a fantastic piece about EventBridge and [EventStorming](https://www.eventstorming.com/). Talking about DDD, Bounded Context and much more.
