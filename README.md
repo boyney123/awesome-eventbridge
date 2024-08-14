@@ -71,6 +71,8 @@ Contributions welcome!
 
 - [Empowering Architectural Evolution: Governing Event-Driven Solutions](https://www.youtube.com/watch?v=-Pv_kYflEEg) - This is a fantastic talk from Sam Dengler. Not really aimed directly at EventBridge, but covers some many tips and thoughts around EDA governance that you can apply to your event-driven architectures using EventBridge. 100% worth checking out.
 
+- [EventBridge Under the hood](https://www.youtube.com/watch?v=t1UfgCE02Do) - Join Nick Smit (Principle Product Manager of EventBridge), Julian Wood and Rishi Baldawa (Pricinple Engineer on EventBridge) dive into EventBridge, how it works and refactors they made along the way. If you want to know the details of EventBridge then this video is for you!
+
 ## Written resources
 
 - [EventBridge Storming](https://medium.com/serverless-transformation/eventbridge-storming-how-to-build-state-of-the-art-event-driven-serverless-architectures-e07270d4dee) and [Finding a Loosely Coupled Utopia with Event-Driven Serverless](https://medium.com/serverless-transformation/service-ports-finding-a-loosely-coupled-utopia-with-event-driven-serverless-6964aacd1487). Ben Ellerby gives us a fantastic piece about EventBridge and [EventStorming](https://www.eventstorming.com/). Talking about DDD, Bounded Context and much more.
