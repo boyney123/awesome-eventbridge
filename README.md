@@ -23,6 +23,8 @@ Contributions welcome!
 
 ## Videos
 
+- [EventBridge under the hood](https://www.youtube.com/watch?v=t1UfgCE02Do) - Julian Wood and the EventBridge team dive into EventBridge under the hood. If you want to learn from a few of the best folks around the service then this is worth a watch.
+
 - [How to get started with Amazon EventBridge](https://www.youtube.com/watch?v=ea9SCYDJIm4). James Beswick talks us through a quick introduction into EventBridge.
 
 - AWS re:Invent 2020: [Building event-driven applications with Amazon EventBridge](https://www.youtube.com/watch?v=Wk0FoXTUEjo). Great talk by Stephen Liedig around EventBridge, Multi-account patterns and recommended practices. 
