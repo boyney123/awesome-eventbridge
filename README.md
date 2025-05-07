@@ -75,6 +75,9 @@ Contributions welcome!
 
 - [EventBridge Under the hood](https://www.youtube.com/watch?v=t1UfgCE02Do) - Join Nick Smit (Principle Product Manager of EventBridge), Julian Wood and Rishi Baldawa (Pricinple Engineer on EventBridge) dive into EventBridge, how it works and refactors they made along the way. If you want to know the details of EventBridge then this video is for you!
 
+- [EDA for the Real World: Architecture & Implementation with TypeScript & EventBridge](https://www.youtube.com/watch?v=rpNC52xx5Hk) - Sandro Volpicella gives us a nice talk on EDA for the Real world, beyond theory with practical examples. Diving into EDA on AWS and of course mentioning EventBridge. 
+
+
 ## Written resources
 
 - [EventBridge Storming](https://medium.com/serverless-transformation/eventbridge-storming-how-to-build-state-of-the-art-event-driven-serverless-architectures-e07270d4dee) and [Finding a Loosely Coupled Utopia with Event-Driven Serverless](https://medium.com/serverless-transformation/service-ports-finding-a-loosely-coupled-utopia-with-event-driven-serverless-6964aacd1487). Ben Ellerby gives us a fantastic piece about EventBridge and [EventStorming](https://www.eventstorming.com/). Talking about DDD, Bounded Context and much more.
