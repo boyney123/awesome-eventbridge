@@ -161,6 +161,8 @@ Contributions welcome!
 
 - [sls-test-tools](https://github.com/Theodo-UK/sls-test-tools) - Custom Jest Assertions for Serverless integration testing. Test your EventBridge integration with these awesome jest tools. Check if events are raised and the payloads of them.
 
+- [EventScout](https://github.com/fargito/event-scout) - Test and monitor asynchronous flows on EventBridge. Easily deploy a scalable testing infrastructure with a custom CDK construct and use it in your integration tests with a simple Typescript client. For debugging purposes, monitor events in near real-time with EventScout CLI!
+
 - [EventBridge Transformer](https://eventbridge-transformer.vercel.app) - An online tool that allows you to quickly generate input paths and input templates for EventBridge. Use your event as a starting point then interactive editors to generate your code. Also see example outputs and validate your input templates/paths.
 
 - [serverless-offline-eventbridge](https://github.com/rubenkaiser/serverless-offline-eventBridge) -  serverless offline plugin that enables eventBridge events 
